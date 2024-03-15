@@ -1,0 +1,12 @@
+[submodule "gestao-clientes"]
+	path = gestao-clientes
+	url = https://github.com/brunomatsuo/gestao-clientes.git
+[submodule "gestao-quartos"]
+	path = gestao-quartos
+	url = https://github.com/brunomatsuo/gestao-quartos.git
+[submodule "gestao-servicos"]
+	path = gestao-servicos
+	url = https://github.com/brunomatsuo/gestao-servicos.git
+[submodule "gestao-reservas"]
+	path = gestao-reservas
+	url = https://github.com/brunomatsuo/gestao-reservas.git
